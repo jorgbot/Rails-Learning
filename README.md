@@ -191,5 +191,5 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 
 # How to Collaborate
 
-Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+Send a pull request or just open an [issue](https://github.com/jorgbot/Rails-Learning/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
 
